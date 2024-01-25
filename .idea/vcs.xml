@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Estrutura de dados em Java/estruturaDeDadosJavaDio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DesafioControleFluxo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../JavaList/javaList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Santander Bootcamp 2023 - Backend Java/dio-lab-open-source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Santander Bootcamp 2023 - Backend Java/java-basico/ContaBanco" vcs="Git" />
+  </component>
+</project>
